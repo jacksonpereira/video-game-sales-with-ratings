@@ -1,0 +1,37 @@
+{
+    "id": 1,
+    "Título": "Mouse Gamer HyperX Pulsefire Core RGB 6200 DPI - HX-MC004B",
+    "Valor": 149.90,
+    "Descrição": "O HyperX Pulsefire Core é um mouse gamer RGB confortável apresentando um sensor óptico Pixart 3327 para configurações DPI de até 6200 e rastreio suave e preciso sem aceleração do hardware. O mouse ergonomicamente projetado com forma simétrica se adapta aos estilos de segurar com a palma ou com a ponta dos dedos e possui laterais texturizadas para uma aderência sem deslizamento. Switches de nível gamer proporcionam nítido feedback tátil configuradas para 20 milhões de cliques. Personalize a iluminação, as configurações DPI e macros para 7 botões programáveis com o software HyperX NGenuity. MOUSE ÓPTICO GAMER COM ILUMINAÇÃO RGB PERSONALIZÁVEL. O HyperX Pulsefire Core™ oferece os recursos essenciais para os gamers que procuram um mouse com fio para jogos RGB, sólido e confortável. O sensor óptico Pixart 3327 proporciona aos gamers, rastreamento suave sem aceleração do hardware e possui configurações DPI nativas de até 6200 DPI. Ergonomicamente projetado, o Pulsefire Core tem apoios laterais texturizados para aderência confortável e sua forma simétrica é adequada para os estilos de segurar com a palma ou com a ponta dos dedos. Ele apresenta teclas de alta qualidade com feedback tátil nítido com especificação para até 20 milhões de cliques. Personalize a iluminação, as configurações de DPI e macros para 7 botões programáveis com o software HyperX NGenuity e tenha seu mouse exatamente como você deseja. Os grandes skates do Pulsefire Core ajudam a proporcionar uma pontaria precisa, permitindo um deslizar suave e controlado ao mover o mouse.",
+    "Caracteristicas": {
+        "Marca": "HyperX",
+        "Modelo": "HX-MC004B"
+    },
+    "especificacoes": {
+        "Ergonômico": "simétrico",
+        "Sensor Pixart": "PAW3327",
+        "Resolução": "até 6.200 DPI",
+        "Predefinições de DPI": "800 / 1600 / 2400 / 3200 DPI",
+        "Velocidade": "220 ips",
+        "Aceleração": "30g",
+        "Botões": 7,
+        "Durabilidade dos botões Esquerdo/Direito": "20 milhões de cliques",
+        "Luz de fundo": "RGB (16.777.216 cores)",
+        "Efeitos de Luz": "1 zona de iluminação RGB com 4 níveis de luminosidade",
+        "Memória do Mouse": "Possibilidade de salvar 1 perfil",
+        "Tipo de conexão": "USB 2.0",
+        "Polling rate (taxa de captação)": "1000 Hz",
+        "Formato de dados USB": "16 bits/eixo",
+        "Tipo de cabo": "trançado"
+    },
+    "Dimensões": {
+        "Comprimento": "119,30mm",
+        "Altura": "41,30 mm",
+        "Largura": "63,90 mm",
+        "Comprimento do cabo": "1,8 m"
+    },
+    "Características / Benefícios": "Sensor óptico Pixart 3327 - O renomado sensor Pixart 3327 para configurações DPI de até 6200 proporciona rastreamento fluido e ágil sem aceleração do hardware para precisão. Design ergonômico e confortável - Projetado de forma ergonômica para se adaptar à sua mão e com apoios laterais texturizados para permanecer firme durante movimentos rápidos. Sete botões programáveis e personalizáveis – O Pulsefire Core conta com sete botões programáveis com switches de nível gamer proporcionam nítido feedback tátil configuradas para 20 milhões de cliques. Iluminação RGB - Pulsefire Core acrescenta um toque do estilo RGB ao seu equipamento. Fácil personalização com o software HyperX NGenuity - Crie macros e personalize a iluminação RGB e DPI.",
+    "Conteúdo da embalagem": "Mouse Gamer HyperX Pulsefire Core RGB",
+    "Garantia": "12 meses de garantia",
+    "Peso": "210 gramas (bruto com embalagem)"
+}
