@@ -1,0 +1,5 @@
+Wii Sports, New Super Mario Bros. e Mario Kart DS
+[0,0,0],[3,1,0],[3,2,0]
+
+Call of Duty: Modern Warfare 2 e Call of Duty: Modern Warfare 3
+[4,6,1],[5,6,1]
